@@ -183,7 +183,7 @@ pre-configured `BoardState` object.
 
 This implementation is the companion code artifact for:
 
-- Article: *"Event Storming Among Agents"* (Medium, April 2026)
+- Article: *"Event Storming Among Agents"* (Sub-stack, April 2026)
 - Skill file: `EventStormingFacilitator.md` (Claude Agent Skill)
 - Methodology: Alberto Brandolini, *Introducing EventStorming* (Leanpub)
 - Framework: Anthropic, *Building Effective Agents* (anthropic.com/research)
